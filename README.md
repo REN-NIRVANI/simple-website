@@ -174,7 +174,7 @@
     <footer>
         <h3>Contact Information</h3>
         <p>Email: <a href="mailto:info@example.com">info@example.com</a></p>
-        <p>Phone: <a href="tel:+1234567890">09776578171</a></a></p>
+        <p>Phone: <a href="tel:+1234567890">09776578171</a></p>
         <p>&copy; 2024 My Website. All rights reserved.</p>
     </footer>
 </body>
